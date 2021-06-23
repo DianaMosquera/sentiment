@@ -1,0 +1,8 @@
+polyglot
+icu
+pandas
+numpy
+nltk
+plotly
+kaleido
+wordcloud
